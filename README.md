@@ -1,48 +1,84 @@
-# Astro Starter Kit: Basics
+# Miniblog
 
-```sh
-npm create astro@latest -- --template basics
+**Miniblog** is an opinionated and extremely minimal blogging template built with [Astro](https://astro.build/) and [Tailwind CSS](https://tailwindcss.com/), whose design is heavily inspired by [jrmyphlmn.com](https://jrmyphlmn.com/). Incredibly easy to use and customize, you can use **Miniblog** as is, or add as much as you want to it.
+
+- Blog post authoring using [Markdown](https://www.markdownguide.org/) and [MDX](https://mdxjs.com/) for component-style content
+- Code block syntax highlighting with [Shiki](https://github.com/shikijs/shiki) 
+- [RSS](https://en.wikipedia.org/wiki/RSS) feed and sitemap generation
+- SEO optimization, with customizable OpenGraph image support
+- Code formatting with [Prettier](https://prettier.io/)
+- Accessible view transitions
+- Dark mode
+
+## Getting Started
+
+1. Click "Use this template", the big green button on the top right, to create a new repository with this template.
+
+2. Clone the repository:
+
+```bash
+git clone https://github.com/[YOUR_USERNAME]/[YOUR_REPO_NAME].git
+cd [YOUR_REPO_NAME]
 ```
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/withastro/astro/tree/latest/examples/basics)
-[![Open with CodeSandbox](https://assets.codesandbox.io/github/button-edit-lime.svg)](https://codesandbox.io/p/sandbox/github/withastro/astro/tree/latest/examples/basics)
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/withastro/astro?devcontainer_path=.devcontainer/basics/devcontainer.json)
+3. Install dependencies:
 
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
-
-![just-the-basics](https://github.com/withastro/astro/assets/2244813/a0a5533c-a856-4198-8470-2d67b1d7c554)
-
-## 🚀 Project Structure
-
-Inside of your Astro project, you'll see the following folders and files:
-
-```text
-/
-├── public/
-│   └── favicon.svg
-├── src/
-│   ├── layouts/
-│   │   └── Layout.astro
-│   └── pages/
-│       └── index.astro
-└── package.json
+```bash
+npm install
 ```
 
-To learn more about the folder structure of an Astro project, refer to [our guide on project structure](https://docs.astro.build/en/basics/project-structure/).
+4. Start the development server:
 
-## 🧞 Commands
+```bash
+npm run dev
+```
 
-All commands are run from the root of the project, from a terminal:
+5. Optionally, format your code after making changes:
 
-| Command                   | Action                                           |
-| :------------------------ | :----------------------------------------------- |
-| `npm install`             | Installs dependencies                            |
-| `npm run dev`             | Starts local dev server at `localhost:4321`      |
-| `npm run build`           | Build your production site to `./dist/`          |
-| `npm run preview`         | Preview your build locally, before deploying     |
-| `npm run astro ...`       | Run CLI commands like `astro add`, `astro check` |
-| `npm run astro -- --help` | Get help using the Astro CLI                     |
+```bash
+npm run format
+```
 
-## 👀 Want to learn more?
+## Customization
 
-Feel free to check [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
+**Miniblog** purposely keeps itself minimal, relying on no other web framework than Astro, and keeping styling simple through Tailwind and traditional CSS.
+
+### Site Configuration
+
+Edit the `src/consts.ts` file to update your information and site's metadata:
+
+```ts
+export const SITE_URL = "https://miniblog.nicholasly.com";
+export const SITE_TITLE = "Miniblog";
+export const SITE_DESCRIPTION = "Welcome to my website!";
+
+export const EMAIL = "hello@nicholasly.com";
+```
+
+### Blog Posts
+
+Add new blog posts as Markdown or MDX files in the `src/content/posts/` directory. Use the following frontmatter structure:
+
+```yml
+---
+title: "Lorem Ipsum"
+description: "Lorem ipsum dolor sit amet."
+date: "Nov 06 2024"
+---
+```
+
+### Markdown Styling
+
+All Markdown-specific CSS styling is customizable in `src/styles/global.css`:
+
+```css
+@layer components {
+  article {
+    /* ... */
+  }
+}
+```
+
+## License
+
+This project is open source and available under the [MIT License](LICENSE).
