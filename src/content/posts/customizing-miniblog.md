@@ -1,5 +1,5 @@
 ---
-title: "Customizing Miniblog"
+title: "Tutorial-Customizing Miniblog"
 description: "How to customize the Miniblog blog theme."
 date: "Nov 26 2024"
 ---

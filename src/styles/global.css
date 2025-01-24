@@ -1,7 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=Noto+Serif:ital,wght@0,100..900;1,100..900&display=swap');
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
-
 @layer base {
   @font-face {
     font-family: "Geist";
@@ -27,12 +28,16 @@
   article {
     p {
       @apply my-4 leading-relaxed;
+      font-family: Libre Baskerville, serif;
     }
     h1 {
       @apply my-4 text-xl font-medium dark:text-white;
+      font-family: Libre Baskerville, serif;
     }
     h2 {
       @apply my-4 text-lg font-medium dark:text-white;
+      font-family: Libre Baskerville, serif;
+      font-weight: 600;
     }
     h3,
     h4,
