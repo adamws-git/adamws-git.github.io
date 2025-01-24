@@ -1,5 +1,5 @@
 ---
-title: Bogong post
+title: "Bogong post"
 description: DESCRIPTION
 date: 2025-01-24
 ---

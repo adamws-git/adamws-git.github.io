@@ -25,7 +25,7 @@
 }
 
 @layer components {
-article {
+  article {
     p {
       @apply my-4 leading-relaxed;
       font-family: Libre Baskerville, serif;
@@ -37,7 +37,6 @@ article {
     h2 {
       @apply my-4 text-lg font-medium dark:text-white;
       font-family: Libre Baskerville, serif;
-      font-weight: 800;
     }
     h3,
     h4,
@@ -84,5 +83,5 @@ article {
     mark {
       @apply dark:bg-yellow-500/50 dark:text-white;
     }
-}
+  }
 }
