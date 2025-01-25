@@ -1,20 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=Noto+Serif:ital,wght@0,100..900;1,100..900&display=swap');
 
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
-
-@layer base {
-  @font-face {
-    font-family: "Geist";
-    src: url("/fonts/geist-variable.woff2") format("woff2");
-    font-display: swap;
-  }
-  @font-face {
-    font-family: "Geist Mono";
-    src: url("/fonts/geist-mono-variable.woff2") format("woff2");
-    font-display: swap;
-  }
   html.dark .astro-code,
   html.dark .astro-code span {
     color: var(--shiki-dark) !important;
@@ -23,19 +8,24 @@
     font-weight: var(--shiki-dark-font-weight) !important;
     text-decoration: var(--shiki-dark-text-decoration) !important;
   }
-}
 
-@layer components {
+  <style is:global>
+  /* Unscoped, delivered as-is to the browser.
+     Applies to all <h1> tags on your site. */
+</style>
+
   article {
     p {
       font-family: Libre Baskerville, serif;
+      ::after {
+        content: "\A";
     }
     h1 {
       font-family: Libre Baskerville, serif;
     }
     h2 {
-      @apply my-4 text-lg font-medium dark:text-white;
       font-family: Libre Baskerville, serif;
     }
   }
-}
+  }
+
