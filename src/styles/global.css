@@ -9,23 +9,37 @@
     text-decoration: var(--shiki-dark-text-decoration) !important;
   }
 
-  <style is:global>
-  /* Unscoped, delivered as-is to the browser.
-     Applies to all <h1> tags on your site. */
-</style>
 
-  article {
-    p {
-      font-family: Libre Baskerville, serif;
-      ::after {
-        content: "\A";
-    }
-    h1 {
-      font-family: Libre Baskerville, serif;
-    }
-    h2 {
-      font-family: Libre Baskerville, serif;
-    }
+  body {
+    background-color: #fffdf7 ;
   }
-  }
+
+p {
+      font-family: Libre Baskerville, serif;
+      font-size: 16px;
+      color: #1c1c1c;
+    }
+
+p.date.blog {
+      font-family: Arial;
+      margin-bottom: 20px;
+      color: #8e8e8e;
+}
+
+h1 {
+      font-family: Libre Baskerville, serif;
+      font-size: 28px;
+      font-weight: 800;
+      margin-bottom: 10px;
+    }
+h2 {
+      font-family: Libre Baskerville, serif;
+      font-size: 22px;
+      font-weight: 600;
+      margin-bottom: 10px;
+
+      }
+    
+  
+  
 
