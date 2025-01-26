@@ -4,4 +4,4 @@
 export const SITE_URL = "https://blog.adamws.com";
 export const SITE_TITLE = "Adam's Blog";
 export const SITE_DESCRIPTION =
-  "Who knows.";
+  "Don't panic.";
