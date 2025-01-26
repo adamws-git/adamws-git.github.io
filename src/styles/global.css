@@ -48,7 +48,11 @@ code {
   font-family: monospace;
   font-size: 16px;
 }
-    
+
+blockquote {
+  text-align: center;
+  font-style: italic;
+}
   
   
 
