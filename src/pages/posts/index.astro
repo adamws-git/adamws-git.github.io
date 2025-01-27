@@ -4,6 +4,7 @@ import { getCollection } from "astro:content";
 import { SITE_DESCRIPTION, SITE_TITLE } from "../../consts";
 import Layout from "../../layouts/Layout-post.astro";
 import { formatDate } from "../../lib/utils";
+import { Image } from 'astro:assets';
 
 const collection = await getCollection("posts");
 const posts = collection.sort(

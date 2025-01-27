@@ -51,6 +51,13 @@ h2 {
       margin-bottom: 10px;
 
       }
+ h2 {
+        font-family: Libre Baskerville, serif;
+        font-size: 20px;
+        font-weight: 800;
+        margin-bottom: 20px;
+  
+        }
 code {
   font-family: monospace;
   font-size: 16px;
