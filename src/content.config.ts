@@ -1,5 +1,4 @@
 import { defineCollection, z } from "astro:content";
-import { glob, file } from "astro/loaders";
 
 const posts = defineCollection({
   type: "content",
@@ -11,4 +10,4 @@ const posts = defineCollection({
   }),
 });
 
-export const collections = { posts, };
+export const collections = { posts };
