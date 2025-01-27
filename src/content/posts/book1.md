@@ -1,11 +1,11 @@
 ---
-title: "Welcome to my blog"
+title: "Posts"
 description: DESCRIPTION
-date: 2025-01-24
+date: 2025-01-28
 ---
 Test post.
 
-# Heading
+# posts
 
 ## Heading 2
 

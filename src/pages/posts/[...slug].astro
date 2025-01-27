@@ -22,10 +22,10 @@ const { Content } = await post.render();
   image={post.data.image}
 >
   <main>
-    <h1 class="mb-5 text-xl font-medium">
+    <h1 class="blog title">
       {post.data.title}
     </h1>
-    <p class="mb-1 font-medium text-zinc-500">
+    <p class="date blog">
       {formatDate(post.data.date)}
     </p>
     <article>
