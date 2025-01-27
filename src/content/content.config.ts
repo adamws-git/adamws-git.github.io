@@ -31,4 +31,4 @@ const books = defineCollection({
   }),
 });
 
-export const collections = { travel, books };
+export const collections = { posts, travel, books };
