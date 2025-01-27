@@ -1,5 +1,5 @@
 ---
-title: "Test"
+title: "Test 2"
 description: DESCRIPTION
 date: 2025-01-28
 ---
