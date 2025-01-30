@@ -4,7 +4,7 @@ description: A trip through Aotearoa
 date: 2025-01-27
 ---
 
-
+![](/images/hike.jpeg)
 Last September, my partner and I headed across the ditch to Aotearoa/NZ for two weeks of exploration and adventure. While we had initial grand plans to do a couple of overnight hikes alongside a 'vanlife' roadtrip, the logistics to run both trips at the same time were too difficult.
 
 ## Welcome to Queenstown
@@ -26,8 +26,7 @@ We’re talking no airbags, no power steering, no A/C and a top speed of 40km/h 
 I loved it. 
 
 The owners had fitted it out with a decent setup; bed, cabinetry (including a sink!) and a battery for the small fridge and electronics for when you’re parked up. 
-
-![](/src/images/nz-van.jpeg)
+![](/images/nz-van.jpeg)
 *Me and the van in Kinloch*
 ## The trip
 

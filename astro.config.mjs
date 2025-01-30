@@ -9,7 +9,6 @@ import { SITE_URL } from "./src/consts";
 
 // https://astro.build/config
 export default defineConfig({
-  base: '/adamws-git.github.io',
   site: 'https://blog.adamws.com',
   integrations: [mdx(), sitemap(), tailwind()],
   markdown: {
