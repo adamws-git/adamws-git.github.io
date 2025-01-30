@@ -27,7 +27,7 @@ I loved it.
 
 The owners had fitted it out with a decent setup; bed, cabinetry (including a sink!) and a battery for the small fridge and electronics for when you’re parked up. 
 
-![](/src/images/nz-van.jpeg)
+![](src/images/nz-van.jpeg)
 *Me and the van in Kinloch*
 ## The trip
 
