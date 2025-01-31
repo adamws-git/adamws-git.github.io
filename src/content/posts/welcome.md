@@ -18,3 +18,6 @@ I imagine the sort of posts you'll find on here are;
 I'll also email you though a newsletter whenever I post, if you'd prefer to hear about my life in your inbox.
 
 Love x Adam
+<br />
+ <div style="padding-top:20px; margin: 0 auto;"><iframe src="https://embeds.beehiiv.com/7817c44a-b417-4547-95c8-05a9480def4a?slim=true" data-test-id="beehiiv-embed" height="52" frameborder="0" scrolling="no" style="margin: 0 auto; border-radius: 0px !important; background-color: transparent; align-content: center;"></iframe></div>
+ <br />
