@@ -45,13 +45,13 @@
   article {
 
   p {
-        font-family: Libre Baskerville, serif;
+        font-family: Libre Baskerville, sans-serif;
         font-size: 16px;
         margin-bottom: 20px;
       }
   
   h1 {
-        font-family: Libre Baskerville, serif;
+        font-family: Libre Baskerville, sans-serif;
         font-size: 24px;
         font-weight: 800;
         margin-top: 30px;
@@ -60,14 +60,14 @@
 
   }
   h2 {
-        font-family: Libre Baskerville, serif;
+        font-family: Libre Baskerville, sans-serif;
         font-size: 20px;
         font-weight: 400;
         margin-bottom: 10px;
   
         }
    h2 {
-          font-family: Libre Baskerville, serif;
+          font-family: Libre Baskerville, sans-serif;
           font-size: 20px;
           font-weight: 800;
           margin-bottom: 20px;
@@ -109,5 +109,9 @@
     }
     mark {
       @apply dark:bg-yellow-500/50 dark:text-white;
+    }
+    ol {
+      list-style: numbered;
+      font-family: Libre Baskerville, sans-serif;
     }
   }
