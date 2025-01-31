@@ -113,5 +113,12 @@
     ol {
       list-style: numbered;
       font-family: Libre Baskerville, sans-serif;
+      margin-bottom: 20px;
+      list-style-position: inside;
+      text-indent: 0px;
+      margin-left: 10px;
+      padding-left: 10px;
+      line-height: 30px;
+      opacity: 80%;
     }
   }
