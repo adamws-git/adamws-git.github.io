@@ -1,12 +1,4 @@
 ---
-title: "Test 2"
-description: DESCRIPTION
-date: 2025-01-28
----
-Test post.
-
-# posts
----
 title: Welcome to my blog!
 description: Here we are!
 date: 2025-01-31
@@ -26,11 +18,3 @@ I imagine the sort of posts you'll find on here are;
 I'll also email you though a newsletter whenever I post, if you'd prefer to hear about my life in your inbox.
 
 Love x Adam
-## Heading 2
-
-### Heading 3
-
->Quote
-
-'code'
-
