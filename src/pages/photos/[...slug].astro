@@ -1,0 +1,40 @@
+---
+import { type CollectionEntry, getCollection } from "astro:content";
+import Layout from "../../layouts/Layout-post.astro";
+import { formatDate } from "../../lib/utils";
+import { Image } from 'astro:assets';
+
+export async function getStaticPaths() {
+  const photos = await getCollection("photos");
+  return photos.map((post) => ({
+    params: { slug: post.slug },
+    props: post,
+  }));
+}
+type Props = CollectionEntry<"photos">;
+
+const post = Astro.props;
+const { Content } = await post.render();
+---
+<style>
+  body {
+    background-color: black;
+  }
+</style>
+<Layout
+  title={post.data.title}
+  description={post.data.description}
+  image={post.data.image}
+>
+  <main>
+    <h1 class="blog title">
+      {post.data.title}
+    </h1>
+    <p class="date blog">
+      {formatDate(post.data.date)}
+    </p>
+    <article>
+      <Content />
+    </article>
+  </main>
+</Layout>
