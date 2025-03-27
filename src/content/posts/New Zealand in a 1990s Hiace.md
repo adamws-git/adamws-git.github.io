@@ -2,6 +2,7 @@
 title: New Zealand in a 1990s Hiace
 description: A trip through Aotearoa
 date: 2025-03-26
+image: z.string().default("/static/nz-post-placeholder.png"),
 ---
 
 
