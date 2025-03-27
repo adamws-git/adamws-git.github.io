@@ -266,3 +266,6 @@ While the company offers eMTB, we went traditional and while it was definitely t
 Then came the moment that felt like it would never come (in the best way)–handing back the van. She did us well, hurtling us up the mountains of Aotearoa at 40km/h and throwing us down them with no power steering. I wouldn't have it any other way.
 
 ![](/images/nz-post/IMG_0241.jpeg)
+<br />
+ <div style="padding-top:20px; margin: 0 auto;"><iframe src="https://embeds.beehiiv.com/7817c44a-b417-4547-95c8-05a9480def4a?slim=true" data-test-id="beehiiv-embed" height="52" frameborder="0" scrolling="no" style="margin: 0 auto; border-radius: 0px !important; background-color: transparent; align-content: center;"></iframe></div>
+ <br />
