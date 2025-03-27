@@ -111,7 +111,7 @@ Wet Wānaka.
 
 Morale was low and the weather wet–we had come to Wānaka to enjoy the the beautify lakeside and climb Roy's Peak. Both were covered in cloud. 
 
-We decided to do our laundry and bunker down for the evening, only to then discover the dryers at the camp didn't exactly dry your washing. After to runs at it, we were left with a sopping pile of clothes. 
+We decided to do our laundry and bunker down for the evening, only to then discover the dryers at the camp didn't exactly dry your washing. After two runs at it, we were left with a sopping pile of clothes. 
 
 Wet Wānaka.
 
