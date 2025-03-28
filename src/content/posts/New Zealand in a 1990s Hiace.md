@@ -59,7 +59,7 @@ We settled in for the evening, making dinner and escaping the sandflies that des
 
 Staying in Kinloch for another night, we headed for the trailhead of the Routebourn track. One of NZ's great walks, we were only doing a day's out and back from it but I would love to go back to complete all 4/5 days of it.
 
-The walk was stunning. Crossing about 5 suspension bridges, there's nothing I can compare it to in Australia. You walk along Routeburn River, with its glacial blue water streaming below the towering peaks above.
+The walk was stunning. Crossing about 5 suspension bridges, there's nothing I can compare it to in Australia. You walk along the Routeburn River, with its glacial blue water streaming below the towering peaks above.
 
 ![](/images/nz-post/IMG_0383.jpeg)
 
