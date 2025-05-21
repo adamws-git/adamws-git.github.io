@@ -55,16 +55,19 @@ Thanks for listening to my TED Talk about my run x
 
 ![](/images/half-mara-25/post-run.jpeg)
 
-*Post-run in Apollo Bay*
+*Joëlle and I post-run in Apollo Bay*
+<br />
 
-![](/public/images/half-mara-25/on-run.jpeg)
+![](/images/half-mara-25/on-run.jpeg)
 
 *On the Great Ocean Road*
+<br />
 
-![](/public/images/half-mara-25/shirt-run.jpeg)
+![](/images/half-mara-25/shirt-run.jpeg)
 
 *Shirt. Is. Ready.*
+<br />
 
-![](/public/images/half-mara-25/trail-run.jpeg)
+![](/images/half-mara-25/trail-run.jpeg)
 
 *My first trail run soft-launch on Mount Hotham*
