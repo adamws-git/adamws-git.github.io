@@ -5,7 +5,7 @@ date: 2025-05-21
 image: /static/mara-placeholder.jpeg
 ---
 
-#### *Sub 2hrs 🥲*
+#### *Sub 2hrs* 🥲
 <br />
 
 Pretty pictures are down the bottom!
