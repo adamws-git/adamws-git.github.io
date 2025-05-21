@@ -18,11 +18,11 @@ Like many of us, hated it in school. Cross country sucked.
 
 My identity in many ways has always been tied to cycling - I rode to school, it was the only sport I stuck at for an extended period of time and I loved heading off on weekend rides. Despite this, I always loved the simplicity and accessibility of running.
 
-As long as you have a decent pair of shoes, you can be running anywhere within minutes. Cycling, on the other hand requires a bike (\$\$\$) , kit (\$\$) and time.
+As long as you have a decent pair of shoes, you can be running anywhere within minutes. Cycling, on the other hand requires a bike (\$\$\$), kit (\$\$) and time.
 
-So when I started running again about 12 months ago, you can imagine how unbelievably stoked I was when the foot pain I had experienced through high school and covid. Sure, I had a run-in with runner's knee but that resolved itself with proper running shoes, rest and rehab exercises.
+So when I started running again about 12 months ago, you can imagine how unbelievably stoked I was when the foot pain I had experienced through high school and covid stayed away. Sure, I had a run-in (pun not intended) with runner's knee earlier this year but that resolved itself with proper running shoes, rest and rehab exercises.
 
-After doing the Barwon Heads triathlon in February, I learned how much I resonated with having and end goal to work towards. My housemate Joëlle has done the Great Ocean Road Half Marathon the last few years, and suggested we sign up for the 2025 edition.
+After doing the Barwon Heads triathlon in February, I learned how much I resonated with having an end goal to work towards. My housemate Joëlle had done the Great Ocean Road Half Marathon the last few years, and suggested we sign up for the 2025 edition.
 
 Then the tickets sold out.
 
