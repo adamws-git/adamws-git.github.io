@@ -1,6 +1,6 @@
 ---
 title: Overnight in Galway
-description: oíche i nGaillimh | Jumpers, Oystersm Books and Good Coffee. A real treat.
+description: oíche i nGaillimh | Jumpers, Oysters, Books and Good Coffee. A real treat.
 date: 2025-06-17
 image: /static/galway-placeholder.jpeg
 ---
