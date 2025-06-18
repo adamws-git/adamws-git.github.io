@@ -8,7 +8,7 @@ For the first time since 2019, all of us were back in Ireland.
 
 ![](/images/galway-june-2025/galway.jpeg)
 
-_The Latin Quarter of Galway_
+*The Latin Quarter of Galway*
 
 Taking the opportunity, Jamie, Charlie, Sofia and I booked a trip down to Galway for a night. This was the first year we had access to a car, meaning a trip like this sans-rents was on the cards.
 
@@ -20,7 +20,7 @@ We also discovered an amazing bookshop that had rooms upon rooms upon rooms. Wit
 
 ![](/images/galway-june-2025/bookshop.jpeg)
 
-_Charles Byrne's Bookshop_
+*Charles Byrne's Bookshop*
 
 For dinner, we went to a local gastropub John Keogh's in the westend and had possibly the biggest oysters known to man. From there, it was on to the Salt House for some live music to round out the night.
 
@@ -30,23 +30,23 @@ Come morning, we were the first ones up and out of the dorm room to make the mos
 
 ![](/images/galway-june-2025/werx1.jpeg)
 
-_COFFEE WERX_
+*COFFEE WERX*
 
 ![](/images/galway-june-2025/werx2.jpeg)
 
-_COFFEE WERX_
+*COFFEE WERX*
 
 We stopped by Ernie's, a local grocer with some amazing produce (served by Erni himself) and to a very cool coffee shop - Coffee Werx - for one of the best coffees I've had in Ireland. To Dela cafe for a fry up and then to the main event - jumper shopping.
 
 ![](/images/galway-june-2025/ernies.jpeg)
 
-_Ernie's grocer_
+*Ernie's grocer*
 
 Made in Ireland from Irish Merino, this jumper is unbelievably warm.
 
 ![](/images/galway-june-2025/jumper.jpeg)
 
-_My new jumper!_
+*My new jumper!*
 
 I'm now ready to head out into the Atlantic on a fishing trawler.
 
