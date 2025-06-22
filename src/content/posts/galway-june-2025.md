@@ -16,7 +16,7 @@ We headed off from Enniskillen, dodging tractors, breakdowns and walkers as we c
 
 We had lunch in a tiki-inspired Jungle Cafe (authentic...), perused the local knitwear (foreshadowing) that the local area is known for, checked out the Spanish Arch and generally got our bearings.
 
-We also discovered an amazing bookshop that had rooms upon rooms upon rooms. With huge sections dedicated to Irish authors and topics, I'd walk out the next day with a selection of John Kavanaugh's works.
+We also discovered an amazing bookshop that had rooms upon rooms upon rooms. With huge sections dedicated to Irish authors and topics, I'd walk out the next day with a selection of John Kavanagh's works.
 
 ![](/images/galway-june-2025/bookshop.jpeg)
 
