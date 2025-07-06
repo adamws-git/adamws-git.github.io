@@ -133,4 +133,7 @@
       line-height: 30px;
       opacity: 80%;
     }
+    p.post-description {
+      font-family: 'Courier New', Courier, monospace;
+    }
   }

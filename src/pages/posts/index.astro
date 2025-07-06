@@ -22,7 +22,9 @@ const posts = collection.sort(
               href={`/posts/${post.slug}`}
               class="group flex justify-between gap-3"
             >
+              <span>
               <span class="group-hover:underline">{post.data.title}</span>
+              </span>
               <span class="text-nowrap text-zinc-500">
                 {formatDate(post.data.date)}
               </span>
