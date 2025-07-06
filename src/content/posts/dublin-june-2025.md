@@ -50,16 +50,11 @@ We grabbed our drinks and started filtering through the crowd towards the musici
 
 Irish pubs have such a grassroots, egalitarian feel - no stage, the musicians come and go as they please, resulting in a band sound that evolves throughout the night. Once one song is finished, tha band chats and have drinks until one of them starts the next tune, the rest slowly joining in. While we watched, the bassoonist and a violinist left, soon replaced by a flautist, an accordion and a guitarist.
 
-Have a listen:
-
-<audio src="/images/dublin-june-2025/cobblestonemusic.mp3" controls>
-  Your browser does not support the audio element.
-</audio>
-
-
 This was an experience I'll treasure forever.
 
-Up early the next day, we'd booked in for the Trinity Trails tour and Book of Kells experience. Both of us decided we wanted to attend Trinity so stay tuned on how that goes for us.
+Up early the next day, we'd booked in for the Trinity Trails tour and Book of Kells experience. 
+
+Both of us decided we wanted to attend Trinity so stay tuned on how that goes for us.
 
 ![](/images/dublin-june-2025/trinity.jpeg)
 
@@ -67,4 +62,4 @@ Up early the next day, we'd booked in for the Trinity Trails tour and Book of Ke
 
 ![](/images/dublin-june-2025/trinityroof.jpeg)
 
-As with all great trips, ours came to and end at the bus stop.
+As with all great trips, ours came to and en at the bus stop.
