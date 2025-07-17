@@ -32,13 +32,13 @@ Back on the mainland, we visited a building that has been voted as Oslo's uglies
 
 With tinned mackerel for dinner in hand, we headed home.
 
-As mentioned, Oslo is littered not with rubbish but with artisinal coffee shops and bakeries. Our first stop on day 2 was Coffee Kuro, which is attached to a store focuses on Norwegian fashion and accessories. A stone's throw away, all the vintage shopping you could dream of. Money was spent.
+As mentioned, Oslo is not littered with rubbish, but with artisinal coffee shops and bakeries. Our first stop on day 2 was Coffee Kuro, which is attached to a store focused on Norwegian fashion and accessories. A stone's throw away, all the vintage shopping you could dream of. Money was spent.
 
 ![](/images/oslo-july-2025/munch-ext.jpeg)
 
 *The Munch Museum*
 
-You've likely heard of Edvard Munch's *Scream*, and as one of Norway's most famous painters there is quite a large museum showcasing his work. When he passed away, he entrusted 25,000 paintings to the City of Oslo! The *Scream* is only shown for 30 minutes every hour to preserve it, so we were fortunate to arrive to see it without a wait involved...
+You've likely heard of Edvard Munch's *Scream*, and as one of Norway's most famous painters there is quite a large museum showcasing his work. When he passed away, he entrusted 25,000 paintings to the City of Oslo! The *Scream* is only shown for 30 minutes every hour to preserve it, and we were fortunate to arrive just in time with not wait.
 
 ![](/images/oslo-july-2025/munch-int.jpeg)
 
@@ -66,7 +66,7 @@ Dinner that night was at *The Salmon*, a restaurant dedicated to you'll-never-gu
 
 Iskreem for dessert.
 
-Sometimes when you're travelling it's fun to imagine what the place would have been like a millennia ago. You know, like how cool it might have been to sauna on Oslo fjord with a random sailor passing through the city. Turns out that can still happen. For Day 3, Hayley had booked a floating sauna on Oslo Fjord and we happened to be sharing ours with an English sailor. I could imagine that happening in the 1300s.
+Sometimes when you're travelling it's fun to imagine what the place would have been like a millennia ago. You know, like how cool it might have been to sauna on Oslo fjord with a random sailor passing through the port. Turns out that can still happen. For Day 3, Hayley had booked a floating sauna on Oslo Fjord and we happened to be sharing ours with an English sailor. I could imagine that happening in the 1300s.
 
 Floating on the sauna, you rock gently with the wake of other boats as you sweat it out, and can jump right into the fjord when you want to refresh yourself. Not only that, but you can take the stairs to the roof of the sauna hut and jump in from above.
 
@@ -82,7 +82,7 @@ Floating on the sauna, you rock gently with the wake of other boats as you sweat
 
 Curiously, there were quite a few jellyfish bobbing around so you had to time your jump to avoid a sting (I was told it was similar to a nettle sting: annoying but not deadly). The water was quite mild, and concerningly it was 20°C...not the bracing temperature you imagine Oslo fjord to be.
 
-Dinner was at 5pm, so we managed to squeeze in a quick trip to the Fram museum. The *Fram* is the ship used for multiple Norwegian Polar expeditions, including the successful South Pole trip by Amundsen. It's a very cool museum - they built it around the *Fram*. Walking in, you're confronted by this huge bow. Walking around the ship reading about all the expeditions you end up at the same level of the deck, at which poiunt you can actually go on board. Heading below deck, much of the ship has been restored to how it would have been for the Polar expeditions. Very cool.
+Dinner was at 5pm, so we managed to squeeze in a quick trip to the Fram Museum. The *Fram* is the ship used for multiple Norwegian Polar expeditions, including the successful South Pole trip by Amundsen. It's a very cool museum - they built it around the *Fram*. Walking in, you're confronted by this huge bow. Walking around the ship reading about all the expeditions you end up at the same level of the deck, at which poiunt you can actually go on board. Heading below deck, much of the ship has been restored to how it would have been for the Polar expeditions. Very cool.
 
 ![](/images/oslo-july-2025/on-fram.jpeg)
 
