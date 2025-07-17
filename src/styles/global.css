@@ -137,3 +137,7 @@
       font-family: 'Courier New', Courier, monospace;
     }
   }
+
+  em {
+    padding-bottom: 40px;
+  }
