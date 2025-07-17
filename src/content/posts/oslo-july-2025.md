@@ -1,6 +1,6 @@
 ---
 title: OSLO OSLO OSLO
-description: Avoiding Jellyfish, 
+description: Avoiding Jellyfish, eating pastries and enjoying the looooong days
 date: 2025-07-17
 image: /static/oslo-jul-25-placeholder.jpeg
 ---
